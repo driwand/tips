@@ -21,7 +21,7 @@
 - [Git](#git)
 - [WSL](#wsl)
 - [Clion](#clion)
-
+- [Linux](#linux)
 
 ## 🎥 Welcome <a name = "Welcome"></a>
 
@@ -30,7 +30,7 @@
 
 ## Git <a name = "git"></a>
 
-**Change the editor of git settings:**
+**Change the editor of git to vs code:**
 
 ```
 git config --global core.editor "code --wait"
@@ -44,3 +44,14 @@ git config --global credential.helper store
 ## WSL <a name = "wsl"></a>
 
 ## Clion <a name = "clion"></a>
+
+## Linux <a name = "linux"></a>
+
+**Add suffix to all files in a directory:**
+
+```
+for file in $(find . -type f -name "*.[filetype]")
+do
+  mv "$file" "${file%}[suffix].[filetype]"
+done
+```
