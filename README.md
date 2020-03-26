@@ -33,7 +33,7 @@
 **Change the editor of git settings:**
 
 ```
-git config --global core.editor "code"
+git config --global core.editor "code --wait"
 ```
 
 **Store credential:**
