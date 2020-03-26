@@ -11,16 +11,16 @@
 
 ---
 
-<p align="center"> Just a little repo that includes the every day tip or solution.
+<p align="center"> Random things One repo.
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
-- [YeeY!](#YeeY)
-- [Demo / Working](#demo)
-- [How it works](#working)
-- [Usage](#usage)
+- [Welcome!](#Welcome)
+- [Git](#git)
+- [WSL](#working)
+- [Clion](#usage)
 - [Getting Started](#getting_started)
 - [Deploying your own bot](#deployment)
 - [Built Using](#built_using)
@@ -29,54 +29,18 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🎥 YeeY <a name = "YeeY"></a>
+## 🎥 Welcome <a name = "Welcome"></a>
 
 ![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
 
-## 💭 How it works <a name = "working"></a>
 
-The bot first extracts the word from the comment and then fetches word definitions, part of speech, example and source from the Oxford Dictionary API.
-
-If the word does not exist in the Oxford Dictionary, the Oxford API then returns a 404 response upon which the bot then tries to fetch results form the Urban Dictionary API.
-
-The bot uses the Pushshift API to fetch comments, PRAW module to reply to comments and Heroku as a server.
-
-The entire bot is written in Python 3.6
-
-## 🎈 Usage <a name = "usage"></a>
-
-To use the bot, type:
-
-```
-!dict word
-```
-
-The first part, i.e. "!dict" **is not** case sensitive.
-
-The bot will then give you the Oxford Dictionary (or Urban Dictionary; if the word does not exist in the Oxford Dictionary) definition of the word as a comment reply.
-
-### Example:
-
-> !dict what is love
+## Git <a name = "git"></a>
 
 **Definition:**
-
-Baby, dont hurt me~
-Dont hurt me~ no more.
-
-**Example:**
-
-Dude1: Bruh, what is love?
-Dude2: Baby, dont hurt me, dont hurt me- no more!
-Dude1: dafuq?
-
-**Source:** https://www.urbandictionary.com/define.php?term=what%20is%20love
-
----
-
-<sup>Beep boop. I am a bot. If there are any issues, contact my [Master](https://www.reddit.com/message/compose/?to=PositivePlayer1&subject=/u/Wordbook_Bot)</sup>
-
-<sup>Want to make a similar reddit bot? Check out: [GitHub](https://github.com/kylelobo/Reddit-Bot)</sup>
+Change the editor of git settings:
+```
+git config --global core.editor "code"
+```
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
