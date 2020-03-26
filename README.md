@@ -23,8 +23,6 @@
 - [Clion](#clion)
 - [Linux](#linux)
 
-=======
-
 ## Git <a name = "git"></a>
 
 **Change the editor of git to vs code:**
