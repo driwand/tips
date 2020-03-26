@@ -11,7 +11,7 @@
 
 ---
 
-<p align="center"> Random things One repo. 
+<p align="center"> Random things One repo.
     <br> 
 </p>
 
