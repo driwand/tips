@@ -7,23 +7,17 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Platform](https://img.shields.io/badge/platform-reddit-orange.svg)](https://www.reddit.com/user/Wordbook_Bot)
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
-
 </div>
 
 ---
 
-<p align="center"> 🤖 Few lines describing what your bot does.
+<p align="center"> Just a little repo that includes the every day tip or solution.
     <br> 
 </p>
 
 ## 📝 Table of Contents
 
-- [About](#about)
+- [YeeY!](#YeeY)
 - [Demo / Working](#demo)
 - [How it works](#working)
 - [Usage](#usage)
@@ -35,11 +29,7 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your bot.
-
-## 🎥 Demo / Working <a name = "demo"></a>
+## 🎥 YeeY <a name = "YeeY"></a>
 
 ![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
 
