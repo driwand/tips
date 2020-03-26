@@ -30,8 +30,8 @@
 
 ## Git <a name = "git"></a>
 
-**Definition:**
-Change the editor of git settings:
+**Change the editor of git settings:**
+
 ```
 git config --global core.editor "code"
 ```
