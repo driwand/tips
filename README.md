@@ -23,10 +23,7 @@
 - [Clion](#clion)
 - [Linux](#linux)
 
-## 🎥 Welcome <a name = "Welcome"></a>
-
-![Working](https://media.giphy.com/media/20NLMBm0BkUOwNljwv/giphy.gif)
-
+=======
 
 ## Git <a name = "git"></a>
 
