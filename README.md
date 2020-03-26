@@ -35,6 +35,12 @@
 ```
 git config --global core.editor "code"
 ```
+
+**Store credential:**
+```
+git config --global credential.helper store
+```
+
 ## WSL <a name = "wsl"></a>
 
 ## Clion <a name = "clion"></a>
