@@ -36,6 +36,12 @@ git config --global core.editor "code --wait"
 git config --global credential.helper store
 ```
 
+**Ignore case-sensitive:**
+```
+git config --global core.ignorecase false
+```
+
+
 ## WSL <a name = "wsl"></a>
 
 ## Clion <a name = "clion"></a>
