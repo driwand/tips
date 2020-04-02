@@ -41,7 +41,24 @@ git config --global credential.helper store
 git config --global core.ignorecase false
 ```
 
-
+**Update a commit message/content:**
+```
+git rebase -i 'SHA^'
+```
+A file will appear where you are goign to change pick to edit.
+Do your updates (add/suppress files) then stage changes.
+```
+git commit --all --amend
+```
+Write the new message.
+```
+git rebase --continue
+```
+At the end 'git push'.
+ps: for pushed commit yous 'git push -f' but first check your
+ local changes that's every thing is working well.
+ beacuse it's going to chnage the remote into the new local changes.
+ 
 ## WSL <a name = "wsl"></a>
 
 ## Clion <a name = "clion"></a>
