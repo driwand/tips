@@ -44,6 +44,7 @@ git config --global core.ignorecase false
 **Update a commit message/content:**
 <details>
 <summary>show</summary>
+
 ```
 git rebase -i 'SHA^'
 ```
