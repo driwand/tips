@@ -42,6 +42,8 @@ git config --global core.ignorecase false
 ```
 
 **Update a commit message/content:**
+<details>
+<summary>show</summary>
 ```
 git rebase -i 'SHA^'
 ```
@@ -59,6 +61,7 @@ At the end use 'git push'.
 
 **note**: for pushed commit yous 'git push -f' but first check that your local changes are working well.
  beacuse it's going to chnage the remote into the new local changes.
+</details>
  
 ## WSL <a name = "wsl"></a>
 
