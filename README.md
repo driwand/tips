@@ -57,7 +57,7 @@ git rebase --continue
 ```
 At the end use 'git push'.
 
-**note**: for pushed commit yous 'git push -f' but first check that your local changes are working well.
+**note**: for pushed commit use 'git push -f' but first check that your local changes are working well.
  beacuse it's going to chnage the remote into the new local changes.
  
 ## WSL <a name = "wsl"></a>
